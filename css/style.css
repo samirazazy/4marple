@@ -1,0 +1,249 @@
+body
+{
+    font-family: "Roboto",sans-serif;;
+
+}
+
+/****************** navbar *******************/
+
+.navbar-default
+{
+    background: #E6E6E6;
+    margin: 0;
+}
+
+.navbar .navbar-brand
+{
+    color: #4E4E4E;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 30px ;
+    margin-bottom: 30px ;
+}
+
+.navbar .navbar-right
+{
+    color: #4E4E4E;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 30px ;
+    margin-bottom: 30px ;
+}
+
+.navbar .navbar-right .home
+{
+    color:#1ABB9C;
+}
+
+
+
+/****************** banner *******************/
+
+.banner 
+{
+    background:url("../img/banner.jpg");
+    height: 500px;;
+    
+}
+
+.banner h1
+{
+    color: #F3F3F3;
+    margin-top: 150px;
+    font-weight: bold;
+}
+
+.banner p
+{
+    color: #A8A8A8;
+    margin: 40px 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.banner button
+{
+    color: #fff;
+    outline: 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 15px;
+    width: 170px;
+    outline: 0;
+    font-size: 15px;
+    border: 0;
+    border-radius: 5px;
+    background: #3F8DBF;
+}
+
+/************* featuers ***************/
+.featuers
+{
+    background: #F7F7F7;
+}
+
+.featuers img
+{
+    margin-top: 60px; 
+    cursor: pointer;  
+}
+
+.featuers h3
+{
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.featuers p
+{
+    line-height: 1.8;
+    color: #4E4E4E;
+}
+
+.featuers hr
+{
+    height: 3px;
+    border: 0;
+    background: #DCDCDC;
+    border-radius: 15px;
+    margin: 50px 0;
+}
+
+/************* works ***************/
+.works
+{
+    background: #F7F7F7;
+}
+
+.works h1
+{
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.works img
+{
+    margin-top: 20px; 
+    cursor: pointer;  
+    width: 100%;
+}
+
+.works h3
+{
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.works p
+{
+    line-height: 1.7;
+    padding-bottom: 40px;
+    color: #4E4E4E;
+}
+
+.works .tags
+{
+    line-height: 1.7;
+    color: #A8A8A8;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/************* quote ***************/
+
+.quote
+{
+    background: #EFEFEF;
+    padding: 40px 0 ;
+}
+
+.quote img
+{
+    margin-bottom: 30px;
+}
+
+.quote blockquote
+{
+    color: #B9B9B9;
+    font-weight: bold;
+    line-height: 1.8;
+    width: 70%;
+    margin: auto;
+}
+
+/************* footer ***************/
+
+.footer
+{
+    background: #1D1D1D;
+    color: #BABABA;
+    padding-bottom: 50px;
+}
+
+.footer h4
+{
+    color: #6C6C6C;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.footer span
+{
+    padding-left: 30px;
+}
+.footer img
+{
+    height:15px;
+    padding-right: 10px;
+}
+
+.footer p 
+{
+    line-height: 1.7;
+    text-justify: auto;
+}
+
+.footer ul li
+{
+    list-style: none;
+    line-height: 1.7;
+    padding-bottom: 20px;
+    list-style-image: url("../img/twit.png") ;
+}
+
+.footer ul
+{
+    padding-left: 20px;
+}
+
+.footer hr
+{
+    height: 3px;
+    border: 0;
+    background: #383838;
+    border-radius: 15px;
+    margin: 50px 0;
+}
+
+.copyright
+{
+    font-size: 17px;
+    color: #CACACA;
+}
+
+.footer .col-sm-6
+{
+   height: 300px;
+}
+
+
